@@ -1,0 +1,7 @@
+{
+    "sound": true,
+    "weapon_sounds": {
+        "Start": "sounds/startShot.mp3",
+        "Relic": "sounds/relicShot.mp3"
+    }
+}
