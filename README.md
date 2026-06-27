@@ -62,5 +62,5 @@ Planned improvements included:
 <img width="1847" height="1026" alt="Tres3" src="https://github.com/user-attachments/assets/eb123a32-ef8d-4af3-a56b-5495e33e71dd" />
 <img width="1847" height="1032" alt="Tres4" src="https://github.com/user-attachments/assets/ecedd834-9fee-4cad-8622-bf075447a4e3" />
 
-## Project Documentation
+## Notes
 This project was developed over several months as part of my A-Level Computer Science NEA. The development process involved iterative testing, collision systems, menu development and object-oriented programming.
