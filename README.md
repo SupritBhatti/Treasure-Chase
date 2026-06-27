@@ -63,4 +63,4 @@ Planned improvements included:
 <img width="1847" height="1032" alt="Tres4" src="https://github.com/user-attachments/assets/ecedd834-9fee-4cad-8622-bf075447a4e3" />
 
 ## Project Documentation
-This project was developed over several months as part of my A-Level Computer Science NEA. The development process involved iterative testing, collision systems, menu development and object-oriented programming. The full technical write-up that was written during the designing, developing, and testing of this game is included in the repository. It is titled "Computer Science NEA.pdf".
+This project was developed over several months as part of my A-Level Computer Science NEA. The development process involved iterative testing, collision systems, menu development and object-oriented programming.
